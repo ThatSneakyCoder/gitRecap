@@ -1,5 +1,0 @@
-hello my name is shubh
-Hope you are doing well
-this is the first file that was created in this folder gitRecap
-
-this is the same file but being edited second time
